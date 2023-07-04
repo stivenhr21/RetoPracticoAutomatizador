@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13f2fe6a-3894-4290-b94f-bfb8144c5f7b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tata/retopracticoautomatizador/models/DatosPrueba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tata/retopracticoautomatizador/questions/formularios/ValidarHashExito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tata/retopracticoautomatizador/questions/iniciarsesion/ValidarInicioSesion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tata/retopracticoautomatizador/tasks/comunes/OpenUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tata/retopracticoautomatizador/tasks/formularios/DiligenciarFormularios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tata/retopracticoautomatizador/tasks/iniciarsesion/IniciarSesion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tata/retopracticoautomatizador/userinterface/formularios/FormulariosUserinterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tata/retopracticoautomatizador/userinterface/iniciarsesion/IniciarSesionUserinterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tata/retopracticoautomatizador/util/transversal/CargarDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tata/retopracticoautomatizador/util/transversal/Esperar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/tata/retopracticoautomatizador/runners/formularios/FormulariosRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/tata/retopracticoautomatizador/runners/iniciarsesion/IniciarSesionRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/tata/retopracticoautomatizador/stepdefinitions/formularios/FormulariosStepdefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/tata/retopracticoautomatizador/stepdefinitions/iniciarsesion/IniciarSesionStepdefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/formularios/formularios.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/iniciarsesion/iniciar_sesion.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/logback-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RetoPracticoAutomatizador" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RetoPracticoAutomatizador" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RetoPracticoAutomatizador" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="serenity bdd" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2S5bKQ5EYqty1CjnsbhOm3sq4d9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Proyectos/ProductStore/ProductStore/build.gradle&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Proyectos\RetoPracticoAutomatizadorTata\RetoPracticoAutomatizador\src\test\resources\drivers" />
+      <recent name="C:\Proyectos\RetoPracticoAutomatizadorTata\RetoPracticoAutomatizador\src\test\java\co\com\tata\retopracticoautomatizador" />
+      <recent name="C:\Proyectos\RetoPracticoAutomatizadorTata\RetoPracticoAutomatizador\src\test\resources" />
+      <recent name="C:\Proyectos\RetoPracticoAutomatizadorTata\RetoPracticoAutomatizador" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.RetoPracticoAutomatizador [clearReports]">
+    <configuration name="FormulariosRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;co.com.tata.retopracticoautomatizador.runners.formularios.FormulariosRunner&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="IniciarSesionRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;co.com.tata.retopracticoautomatizador.runners.iniciarsesion.IniciarSesionRunner&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RetoPracticoAutomatizador [clearHistory]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clearHistory" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RetoPracticoAutomatizador [clearReports]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clearReports" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="IniciarSesionRunner" type="JUnit" factoryName="JUnit">
+      <module name="RetoPracticoAutomatizador.test" />
+      <shortenClasspath name="ARGS_FILE" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-16" />
+      <option name="PACKAGE_NAME" value="co.com.tata.retopracticoautomatizador.runners.iniciarsesion" />
+      <option name="MAIN_CLASS_NAME" value="co.com.tata.retopracticoautomatizador.runners.iniciarsesion.IniciarSesionRunner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <shortenClasspath name="ARGS_FILE" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.FormulariosRunner" />
+      <item itemvalue="Gradle.RetoPracticoAutomatizador [clearHistory]" />
+      <item itemvalue="Gradle.RetoPracticoAutomatizador [clearReports]" />
+      <item itemvalue="Gradle.IniciarSesionRunner" />
+      <item itemvalue="JUnit.IniciarSesionRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RetoPracticoAutomatizador [clearReports]" />
+        <item itemvalue="Gradle.RetoPracticoAutomatizador [clearHistory]" />
+        <item itemvalue="Gradle.FormulariosRunner" />
+        <item itemvalue="Gradle.IniciarSesionRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13f2fe6a-3894-4290-b94f-bfb8144c5f7b" name="Changes" comment="" />
+      <created>1688439326929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688439326929</updated>
+    </task>
+    <servers />
+  </component>
+</project>
