@@ -8,7 +8,15 @@
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69fbe5f131f246cc972123a549cd42f07fefaf52" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75b80b036e24aa268b716ab742d7127d12ee5545" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/856bd3f6a3d5871a66db509c48e7bd0920452944" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e09bb1e05cfc4970194b197a36f4bd226121b527" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/9/69fbe5f131f246cc972123a549cd42f07fefaf52" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/5/75b80b036e24aa268b716ab742d7127d12ee5545" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/5/856bd3f6a3d5871a66db509c48e7bd0920452944" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/0/e09bb1e05cfc4970194b197a36f4bd226121b527" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
@@ -19,6 +27,7 @@
       <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tata/retopracticoautomatizador/models/DatosPrueba.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tata/retopracticoautomatizador/questions/formularios/ValidarHashExito.java" afterDir="false" />
@@ -30,6 +39,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tata/retopracticoautomatizador/userinterface/iniciarsesion/IniciarSesionUserinterface.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tata/retopracticoautomatizador/util/transversal/CargarDatos.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tata/retopracticoautomatizador/util/transversal/Esperar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tata/retopracticoautomatizador/util/x" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/co/com/tata/retopracticoautomatizador/runners/formularios/FormulariosRunner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/co/com/tata/retopracticoautomatizador/runners/iniciarsesion/IniciarSesionRunner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/co/com/tata/retopracticoautomatizador/stepdefinitions/formularios/FormulariosStepdefinitions.java" afterDir="false" />
